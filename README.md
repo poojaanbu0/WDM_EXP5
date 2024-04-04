@@ -113,7 +113,8 @@ if __name__ == "__main__":
 ```
 
 ### Output:
-![318054362-6e73d3d8-49aa-43e6-9ed3-603aa089e764](https://github.com/poojaanbu0/WDM_EXP5/assets/119390329/8ff6e269-45d8-45de-aa42-91f75ff559f0)
+![315210281-b70b0dea-7ae3-4304-9173-8e063174f57d](https://github.com/poojaanbu0/WDM_EXP5/assets/119390329/3429c871-64aa-4267-bc22-715a43b6b5d8)
+
 
 ### Result:
 Implementation of Information Retrieval Using Boolean Model in Python is successfully completed.
